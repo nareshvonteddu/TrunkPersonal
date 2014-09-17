@@ -1,0 +1,10 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\nvonteddu\skydrive\projects\findcustomerservice\findcustomerservice\obj\release\intermediatexaml\findcustomerservice.exe" HashGuid="8a0a9aea-2924-8344-793f-e7cfd1f4c591" />
+    <ReferenceAssembly PathName="c:\users\nvonteddu\skydrive\projects\findcustomerservice\packages\windowsazure.mobileservices.1.2.3\lib\wpa81\microsoft.windowsazure.mobile.dll" HashGuid="34256b33-cc8e-2288-b763-2d97aff3ed18" />
+    <ReferenceAssembly PathName="c:\users\nvonteddu\skydrive\projects\findcustomerservice\packages\windowsazure.mobileservices.1.2.3\lib\wpa81\microsoft.windowsazure.mobile.ext.dll" HashGuid="01dc9cf8-385c-1ece-6323-2a11c1d4ae11" />
+    <ReferenceAssembly PathName="c:\users\nvonteddu\skydrive\projects\findcustomerservice\packages\newtonsoft.json.6.0.2\lib\portable-net45+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="9d7edd31-e823-430e-c3cf-22078730f8bb" />
+    <ReferenceAssembly PathName="c:\program files (x86)\reference assemblies\microsoft\framework\.netframework\v4.5.1\system.data.services.client.dll" HashGuid="6a4cdfa0-1c6f-c5a4-7a64-fbb8eefdfc64" />
+    <ReferenceAssembly PathName="c:\users\nvonteddu\skydrive\projects\findcustomerservice\packages\microsoft.net.http.2.2.19\lib\wpa81\system.net.http.extensions.dll" HashGuid="1d9d21be-6daa-468f-1b93-4e738d786e1b" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="35172nareshV.FindCustomerService" version="1.0" primary="true">
+		<Qualifiers>
+			<Language>EN-US</Language>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://35172nareshV.FindCustomerService/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FindCustomerService.xr.xml" uri="ms-resource://35172nareshV.FindCustomerService/Files/FindCustomerService.xr.xml">
+				<Candidate type="Path">
+					<Value>FindCustomerService.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="ItemPage.xbf" uri="ms-resource://35172nareshV.FindCustomerService/Files/ItemPage.xbf">
+				<Candidate type="Path">
+					<Value>ItemPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://35172nareshV.FindCustomerService/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="feature.search.png" uri="ms-resource://35172nareshV.FindCustomerService/Files/Assets/feature.search.png">
+					<Candidate type="Path">
+						<Value>Assets\feature.search.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://35172nareshV.FindCustomerService/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://35172nareshV.FindCustomerService/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://35172nareshV.FindCustomerService/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://35172nareshV.FindCustomerService/Files/Assets/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://35172nareshV.FindCustomerService/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WideLogo.png" uri="ms-resource://35172nareshV.FindCustomerService/Files/Assets/WideLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\WideLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Common">
+				<NamedResource name="ReadMe.txt" uri="ms-resource://35172nareshV.FindCustomerService/Files/Common/ReadMe.txt">
+					<Candidate type="Path">
+						<Value>Common\ReadMe.txt</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+		<ResourceMapSubtree name="Microsoft.WindowsAzure.MobileServices.Resources">
+			<NamedResource name="ExpressionUtility_ProjectionNotSupportedOnWindowsPhone75" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/ExpressionUtility_ProjectionNotSupportedOnWindowsPhone75">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The Linq IQueryable Select() operation is not supported on the Windows Phone 7.5 platform.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FilterBuildingExpressionVisitor_MemberUnsupported" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/FilterBuildingExpressionVisitor_MemberUnsupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The member '{0}' is not supported in the 'Where' Mobile Services query expression '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FilterBuildingExpressionVisitor_OperatorUnsupported" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/FilterBuildingExpressionVisitor_OperatorUnsupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The operator '{0}' is not supported in the 'Where' Mobile Services query expression '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="FilterBuildingExpressionVisitor_UnsupportedInWhereExpression" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/FilterBuildingExpressionVisitor_UnsupportedInWhereExpression">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>'{0}' is not supported in a 'Where' Mobile Services query expression.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="HttpMessageHandlerExtensions_WrongHandlerType" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/HttpMessageHandlerExtensions_WrongHandlerType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>All message handlers except the last must be of the type '{0}'</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IApplicationStorage_NullOrWhitespaceSettingName" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/IApplicationStorage_NullOrWhitespaceSettingName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>An application setting name must be provided. Null, empty or whitespace only names are not allowed.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IAuthenticationBroker_AuthenticationCanceled" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/IAuthenticationBroker_AuthenticationCanceled">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Authentication was cancelled by the user.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IAuthenticationBroker_AuthenticationFailed" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/IAuthenticationBroker_AuthenticationFailed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Authentication failed with HTTP response code {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IAuthenticationBroker_InvalidLoginResponse" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/IAuthenticationBroker_InvalidLoginResponse">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Invalid format of the authentication response.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IAuthenticationBroker_LoginFailed" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/IAuthenticationBroker_LoginFailed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Login failed: {0}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IAuthenticationBroker_LoginInProgress" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/IAuthenticationBroker_LoginInProgress">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Authentication is already in progress.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="IAuthenticationBroker_NoLoginInProgress" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/IAuthenticationBroker_NoLoginInProgress">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Authentication has not been started.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceClient_EmptyArgument" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceClient_EmptyArgument">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0} cannot be null, empty or only whitespace.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceClient_ErrorMessage" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceClient_ErrorMessage">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The request could not be completed.  ({0})</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceClient_InnerHandlerMustBeNull" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceClient_InnerHandlerMustBeNull">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The 'InnerHandler' property of the delegating handler must be null.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceClient_NoResponseContent" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceClient_NoResponseContent">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The server did not provide a response with the expected content.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceCollection_IncrementalLoadingFailed" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceCollection_IncrementalLoadingFailed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Failed to incrementally load more items of type '{0}'. See the inner exception for details.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceCollection_LoadInProcess" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceCollection_LoadInProcess">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Loading of more items already in process.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceContractResolver_IntegerIdTypeWithSystemPropertyAttributes" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceContractResolver_IntegerIdTypeWithSystemPropertyAttributes">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The type '{0}' has an integer id member and therefore can not have any members with the system property attribute '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceContractResolver_MemberNotFound" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceContractResolver_MemberNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>No '{0}' member found on type '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceContractResolver_MultipleSystemPropertyAttributes" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceContractResolver_MultipleSystemPropertyAttributes">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>A member can only have one system property attribute. The member '{0}' on type '{1}' has system property attributes '{2}' and '{3}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceContractResolver_NumberOutOfRange" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceContractResolver_NumberOutOfRange">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The value {0} for member {1} is outside the valid range for numeric columns.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceContractResolver_SamePropertyName" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceContractResolver_SamePropertyName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Only one member may have the property name '{0}' (regardless of casing) on type '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceContractResolver_TypeNoDataContractButBaseWithDataContract" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceContractResolver_TypeNoDataContractButBaseWithDataContract">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The type '{0}' does not have a DataContractAttribute, but the type derives from the type '{1}', which does have a DataContractAttribute. If a type has a DataContractAttribute, any type that derives from that type must also have a DataContractAttribute.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceContractResolver_TypeWithDataMemberButNoDataContract" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceContractResolver_TypeWithDataMemberButNoDataContract">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The type '{0}' has one or members with a DataMemberAttribute, but the type itself does not have a DataContractAttribute. Use the Newtonsoft.Json.JsonPropertyAttribute in place of the DataMemberAttribute and set the PropertyName to the desired name.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceJsonSerializerSettings_NullOrInvalidContractResolver" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceJsonSerializerSettings_NullOrInvalidContractResolver">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The member '{0}.ContractResolver' must be set to an instance of the '{1}' class or a class that inherits from the '{1}' class.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServicePrecisionCheckConverter_ReadNotSupported" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServicePrecisionCheckConverter_ReadNotSupported">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The {0} does not support reading JSON.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServicesAuthentication_LoginAlreadyInProgress" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServicesAuthentication_LoginAlreadyInProgress">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot start a login operation because login is already in progress.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceSerializer_IdCasingIncorrect" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceSerializer_IdCasingIncorrect">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The casing of the '{0}' property is invalid.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceSerializer_IdNotFound" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceSerializer_IdNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Expected {0} member not found.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceSerializer_IdTypeMismatch" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceSerializer_IdTypeMismatch">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>You might be affected by Mobile Services latest changes to support string Ids. For more details: http://go.microsoft.com/fwlink/?LinkId=330396</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceSerializer_InvalidIntegerId" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceSerializer_InvalidIntegerId">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The integer id '{0}' is not a positive integer value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceSerializer_InvalidStringId" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceSerializer_InvalidStringId">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The string id '{0}' is invalid. An id must not contain any control characters or the characters ",+,?,\,/,`.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceSerializer_LookupInvalidIdType" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceSerializer_LookupInvalidIdType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The id parameter type '{0}' is invalid for looking up items of type '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceSerializer_NullOrEmptyStringId" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceSerializer_NullOrEmptyStringId">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The id can not be null or an empty string.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceSerializer_StringIdTooLong" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceSerializer_StringIdTooLong">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The string id '{0}' is longer than the max string id length of {1} characters.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTableQueryTranslator_MembersOnlyInExpression" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTableQueryTranslator_MembersOnlyInExpression">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>'{0}' Mobile Services query expressions must consist of members only, not '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTableQueryTranslator_SingleIntegerOnly" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTableQueryTranslator_SingleIntegerOnly">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>'{0}' Mobile Services query expressions must consist of a single integer, not '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTableQueryTranslator_UnsupportedExpression" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTableQueryTranslator_UnsupportedExpression">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Expression '{1}' is not a supported '{0}' Mobile Services query expression.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTableSerializer_CannotDeserializeValue" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTableSerializer_CannotDeserializeValue">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot deserialize value {0} into '{1}.{2}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTableSerializer_MissingRequiredMember" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTableSerializer_MissingRequiredMember">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot deserialize type '{0}' because the JSON object did not have required member(s) '{1}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTableSerializer_NeedObject" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTableSerializer_NeedObject">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Expected a JSON object to deserialize, not '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTableSerializer_UnknownType" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTableSerializer_UnknownType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot serialize member '{0}' of type '{1}' declared on type '{2}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTableUrlBuilder_InvalidParameterBeginsWithDollarSign" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTableUrlBuilder_InvalidParameterBeginsWithDollarSign">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>{0} is an invalid user-defined query string parameter. User-defined query string parameters must not begin with a \'$\'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTable_DeleteWithoutId" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTable_DeleteWithoutId">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot delete if the {0} member is set to a default value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTable_ExpectedArray" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTable_ExpectedArray">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Could not get an array from response {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTable_InsertWithExistingId" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTable_InsertWithExistingId">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot insert if the {0} member is already set.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTable_NotSingleObject" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTable_NotSingleObject">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Could not get object from response {0}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MobileServiceTable_UpdateWithoutId" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/MobileServiceTable_UpdateWithoutId">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Cannot update if the {0} member is set to a default value.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Platform_AssemblyDidNotHaveType" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/Platform_AssemblyDidNotHaveType">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The assembly {0} does not define a type that implements the {1} interface.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Platform_AssemblyDoesNotSupportLogin" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/Platform_AssemblyDoesNotSupportLogin">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Third-party provider authentication requires user interface components and is not supported with the platform-specific assembly {0}. To authenticate users with a third-party provider, ensure that the project references the platform-specific UI assembly {0}.UI.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Platform_AssemblyNotFound" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/Platform_AssemblyNotFound">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>A Microsoft Azure Mobile Services assembly for the current platform was not found. Ensure that the current project references both {0} and the following platform-specific assembly: {1}.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Platform_InstantiationFailed" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/Platform_InstantiationFailed">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Failed to instantiate the platform implemenation of {0} from the assembly {1} due to the following error: {2}</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Push_BodyTemplateMustBeXml" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/Push_BodyTemplateMustBeXml">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Valid XML is required for any template without a raw header.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Push_BodyTemplateMustContainElement" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/Push_BodyTemplateMustContainElement">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>XML must contain an XML node of Element type.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Push_ConflictWithReservedName" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/Push_ConflictWithReservedName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Template name conflicts with reserved name '{0}'.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Push_InvalidTemplateName" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/Push_InvalidTemplateName">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Template name can't contain ";" or ":".</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Push_NotSupportedXMLFormatAsBodyTemplateWin8" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/Push_NotSupportedXMLFormatAsBodyTemplateWin8">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>The bodyTemplate is not in accepted XML format. The first node of the bodyTemplate should be Badge/Tile/Toast, except for the wns/raw template, which need to be an valid XML.</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Push_TagNoCommas" uri="ms-resource://35172nareshV.FindCustomerService/Microsoft.WindowsAzure.MobileServices.Resources/Push_TagNoCommas">
+				<Candidate qualifiers="Language-EN-US" isDefault="true" type="String">
+					<Value>Tags must not contain ','.</Value>
+				</Candidate>
+			</NamedResource>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

@@ -1,0 +1,2 @@
+MainPackage=C:\Users\nvonteddu\SkyDrive\Projects\FindCustomerService\FindCustomerService\bin\Release\FindCustomerService_1.1.0.20_Bundle\FindCustomerService_1.1.0.20_AnyCPU.appx
+SymbolPackage=C:\Users\nvonteddu\SkyDrive\Projects\FindCustomerService\FindCustomerService\AppPackages\FindCustomerService_1.1.0.20_Test\FindCustomerService_1.1.0.20_AnyCPU.appxsym

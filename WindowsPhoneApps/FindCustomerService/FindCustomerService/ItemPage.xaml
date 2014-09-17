@@ -1,0 +1,50 @@
+﻿<Page
+    x:Class="FindCustomerService.ItemPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:FindCustomerService"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:viewModels="using:FindCustomerService.ViewModels"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}" Loaded="Page_Loaded">
+
+    <Page.DataContext>
+        <viewModels:ItemViewModel/>
+    </Page.DataContext>
+
+    <Grid x:Name="LayoutRoot">
+        <Grid.ChildrenTransitions>
+            <TransitionCollection>
+                <EntranceThemeTransition/>
+            </TransitionCollection>
+        </Grid.ChildrenTransitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Phone Numbers" Style="{StaticResource SubheaderTextBlockStyle}" Margin="5,0,0,0"/>
+
+        <TextBox Grid.Row="1" Name="SearchBox" TextChanged="SearchBox_OnTextChanged" GotFocus="SearchBox_GotFocus" Margin="5"/>
+
+        <ScrollViewer Grid.Row="3" VerticalScrollBarVisibility="Auto">
+        <ItemsControl Grid.Row="3" ItemsSource="{Binding SearchResults}" Background="Transparent">
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Margin="0,0,0,17" >
+                        <TextBlock Text="{Binding Name}" TextWrapping="Wrap" Style="{StaticResource ListViewItemContentTextBlockStyle}"/>
+                        <HyperlinkButton Content="{Binding PhoneNumber}" HorizontalContentAlignment="Left" Click="HyperlinkButton_Click" HorizontalAlignment="Left"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+        </ScrollViewer>
+
+        <Grid Grid.Row="2" Margin="5">
+            <TextBlock Text="OR search Bing..." VerticalAlignment="Center" Style="{StaticResource SubheaderTextBlockStyle}" TextWrapping="Wrap"></TextBlock>
+            <Button Content="Search" VerticalAlignment="Center" HorizontalAlignment="Right" Click="Button_Click" ></Button>
+        </Grid>
+    </Grid>
+</Page>
