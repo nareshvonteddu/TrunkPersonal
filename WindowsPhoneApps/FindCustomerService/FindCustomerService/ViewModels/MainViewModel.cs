@@ -113,10 +113,7 @@ namespace FindCustomerService.ViewModels
                 {
                     BusinessGroupUI businessGroupUi = new BusinessGroupUI() { Id = businessGroup.Id, Name = businessGroup.Name };
                     var businessList = await businessTable.Take(1000).Where(p => p.GroupName == businessGroup.Name).ToListAsync();
-                    foreach (Business business in businessList)
-                    {
-                        businessGroupUi.Businesses.Add(business);
-                    }
+                    businessGroupUi.Businesses = new ObservableCollection<Business>(businessList);
                     BusinessGroups.Add(businessGroupUi);
                     BusinessData.BusinessList.AddRange(businessList);
                     IsProgressVisible = Visibility.Collapsed;
