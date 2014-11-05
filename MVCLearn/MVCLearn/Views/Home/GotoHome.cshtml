@@ -1,0 +1,29 @@
+﻿@using System.Diagnostics
+@using MVCLearn.Models;
+@{
+    Layout = null;
+    var NewCustomer = ViewData["NewCustomer"] as Customer;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>My First MVC</title>
+</head>
+<body>
+    <div>
+        Hello world!!!... @ViewData["CurrentDateTime"]  
+    </div>
+    <div>
+        @{
+            Debug.Assert(NewCustomer != null, "NewCustomer != null");
+        }
+    
+        @NewCustomer.Name <br/>
+    
+        @NewCustomer.Salary <br/>
+    </div>
+</body>
+</html>

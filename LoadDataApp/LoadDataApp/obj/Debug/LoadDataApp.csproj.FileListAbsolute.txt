@@ -12,3 +12,7 @@ C:\Users\nvonteddu\SkyDrive\Projects\LoadDataApp\LoadDataApp\obj\Debug\LoadDataA
 C:\Users\nvonteddu\SkyDrive\Projects\LoadDataApp\LoadDataApp\bin\Debug\LoadDataApp.exe
 C:\Users\nvonteddu\SkyDrive\Projects\LoadDataApp\LoadDataApp\bin\Debug\LoadDataApp.pdb
 C:\Users\nvonteddu\SkyDrive\Projects\LoadDataApp\LoadDataApp\obj\Debug\LoadDataApp.csprojResolveAssemblyReference.cache
+C:\TrunkPersonal\LoadDataApp\LoadDataApp\bin\Debug\LoadDataApp.exe.config
+C:\TrunkPersonal\LoadDataApp\LoadDataApp\obj\Debug\LoadDataApp.csproj.ResolveComReference.cache
+C:\TrunkPersonal\LoadDataApp\LoadDataApp\obj\Debug\LoadDataApp.exe
+C:\TrunkPersonal\LoadDataApp\LoadDataApp\obj\Debug\LoadDataApp.pdb
