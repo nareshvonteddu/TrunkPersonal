@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ServiceConfiguration serviceName="FarmersDiaryService" xmlns="http://schemas.microsoft.com/ServiceHosting/2008/10/ServiceConfiguration" osFamily="4" osVersion="*" schemaVersion="2015-04.2.6">
+  <Role name="FarmersDiaryServiceWebRole">
+    <Instances count="1" />
+    <ConfigurationSettings>
+      <Setting name="Microsoft.WindowsAzure.Plugins.Diagnostics.ConnectionString" value="UseDevelopmentStorage=true" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.Enabled" value="true" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountUsername" value="admin" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountEncryptedPassword" value="MIIBnQYJKoZIhvcNAQcDoIIBjjCCAYoCAQAxggFOMIIBSgIBADAyMB4xHDAaBgNVBAMME1dpbmRvd3MgQXp1cmUgVG9vbHMCEG3YOLNVk86tTrgCnGtl6XowDQYJKoZIhvcNAQEBBQAEggEAF56mDBV+qXJOXX58Xs7FCs0jzjJZu8PC0/xTntw9T3boFh5PAMxnYW+jTSMWgB/e6vtc952DrtUzifDaG6bSGpmmgeKnZBNYGvbvNw8GCSdJUZHUsblTTQNODe/ZKSjgrPJ/B0VF8b/e/rP+ksaVj0ugL6+s5+b5OGzMG04t+pjXHofSzL47tDzH5jVev2bqq9OWdFHRhQPeoDiK7xw1P4jurbgPqUDqInehjvYgsubOobe/9b7SAPt+N8qCMbQjK4RyyHym+fCsaha4NwqVkSHZcfsiv4Y/2vAfzYHIU2Er8LKAfG+Ejn+bLAJH0QGO4vDDoijrY///5nmsDSCoWjAzBgkqhkiG9w0BBwEwFAYIKoZIhvcNAwcECM/88u1Hg33IgBCSGq3YKCP+usBgnuup6twv" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteAccess.AccountExpiration" value="2016-08-06T23:59:59.0000000-04:00" />
+      <Setting name="Microsoft.WindowsAzure.Plugins.RemoteForwarder.Enabled" value="true" />
+    </ConfigurationSettings>
+    <Certificates>
+      <Certificate name="Microsoft.WindowsAzure.Plugins.RemoteAccess.PasswordEncryption" thumbprint="EFC669CFC2C1ECF2C3412A43D5F27928DCC6D350" thumbprintAlgorithm="sha1" />
+    </Certificates>
+  </Role>
+</ServiceConfiguration>
