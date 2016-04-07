@@ -1,0 +1,1 @@
+C:\NRIUturn\NRIUturn\NRIUturn.Web\NRIUturn.Web.csproj,635380773557584042,Properties\AssemblyInfo.cs,

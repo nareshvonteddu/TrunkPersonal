@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="http://nriuturn.com/datalayerservice/DataLayerService.svc" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="nriuturn.com/datalayerservice" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="True" profileName="DeployWebService" publishMethod="MSDeploy" replaceMatchingFiles="True" userName="nriu1276" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAuj/tsdHQ10iwhzroJt8MyAAAAAACAAAAAAADZgAAwAAAABAAAADMPEcA9CFbpLLrfGu0RfZ2AAAAAASAAACgAAAAEAAAAPZDd7dfTHrGuDI92FI0O+kYAAAAJgW93E4oBkhu36m3VeINlEHGeCDwvU13FAAAAB7a3yHF7E5iTOuIknsKPoO0VKEM" SelectedForPublish="True" />
+</publishData>

@@ -1,0 +1,175 @@
+﻿<UserControl x:Class="NRIUturn.Views.ImigrationView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+           xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+           xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+           xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+           mc:Ignorable="d"           
+           d:DesignWidth="640" d:DesignHeight="480" xmlns:sdk="http://schemas.microsoft.com/winfx/2006/xaml/presentation/sdk"
+           xmlns:toolkit="http://schemas.microsoft.com/winfx/2006/xaml/presentation/toolkit"
+           xmlns:c="http://www.caliburnproject.org" 
+           xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"       
+           xmlns:customcontrols="clr-namespace:NRIUturn.CustomControls">
+    <UserControl.Resources>        
+    </UserControl.Resources>
+    <Border BorderBrush="#FF7F7FD0" BorderThickness="0">
+        <Grid x:Name="LayoutRoot"  Background="#FF7F7FD0">
+            <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="25"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="25"/>
+                    <ColumnDefinition Width="195"/>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="25"/>
+                </Grid.ColumnDefinitions>
+                <toolkit:DockPanel Grid.Column="1" Grid.ColumnSpan="2" Background="Transparent">
+                    <Button x:Name="NewPostClick" Cursor="Hand" Style="{StaticResource NewPostButtonStyle}" Width="80" Visibility="{Binding Path=NewPostButtonVisible}"/>
+                    <Button Name="ReplyPost" Cursor="Hand" Style="{StaticResource ReplyButtonStyle}" Width="80" Margin="10,0,0,0" Visibility="{Binding Path=ReplyButtonVisible}">
+                        <i:Interaction.Triggers>
+                            <i:EventTrigger EventName="Click">
+                                <c:ActionMessage MethodName="ReplyPostClick" />
+                            </i:EventTrigger>
+                        </i:Interaction.Triggers>
+                    </Button>
+                    <StackPanel Orientation="Horizontal"  Visibility="{Binding Path=PostButtonVisible}">
+                        <Button x:Name="SaveNewPost" Style="{StaticResource PostButtonStyle}" HorizontalAlignment="Left" Height="25" MinWidth="70" Margin="10,0,0,0">
+                            <i:Interaction.Triggers>
+                                <i:EventTrigger EventName="Click">
+                                    <c:ActionMessage MethodName="SaveNewPost">
+                                        <c:Parameter Value="{Binding ElementName=BodyTextBox}" />
+                                    </c:ActionMessage>
+                                </i:EventTrigger>
+                            </i:Interaction.Triggers>
+                        </Button>
+                        <Button x:Name="CancelNewPost" Style="{StaticResource CancelButtonStyle}" HorizontalAlignment="Left" Height="25" MinWidth="70" Margin="10,0,0,0"/>
+                    </StackPanel>
+                    <StackPanel HorizontalAlignment="Right" Orientation="Horizontal">
+                        <TextBlock Text="Visa Type:" VerticalAlignment="Center" FontSize="13" Foreground="White" FontFamily="Arial"/>
+                        <ComboBox x:Name="Filters" MinWidth="100" DisplayMemberPath="Value" SelectedValuePath="Key" c:Message.Attach="[SelectionChanged] = [Action FilterPosts]"/>
+                    </StackPanel>
+                </toolkit:DockPanel>
+                <sdk:DataGrid Name="ContainerListBox" SelectedItem="{Binding Path=SelectedPost, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Grid.Column="1" Grid.Row="1" ItemsSource="{Binding FilteredPosts}" HeadersVisibility="None" AutoGenerateColumns="False"
+                              VerticalScrollBarVisibility="Auto">
+                    <sdk:DataGrid.Columns>
+                        <sdk:DataGridTemplateColumn Width="*">
+                            <sdk:DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Grid VerticalAlignment="Top" HorizontalAlignment="Stretch" Background="Transparent" Width="{Binding ElementName=ContainerListBox, Path=Width}">
+                                        <Grid.RowDefinitions>
+                                            <RowDefinition Height="Auto"/>
+                                            <RowDefinition Height="Auto"/>
+                                            <RowDefinition Height="Auto"/>
+                                        </Grid.RowDefinitions>
+                                        <TextBlock Text="{Binding PostDate}" HorizontalAlignment="Right"/>
+                                        <TextBlock Text="{Binding PostedBy}" Grid.Row="1" HorizontalAlignment="Left" FontWeight="Bold"/>
+                                        <TextBlock Text="{Binding PostSubject}" Grid.Row="2" HorizontalAlignment="Left"/>
+                                    </Grid>
+                                </DataTemplate>
+                            </sdk:DataGridTemplateColumn.CellTemplate>
+                        </sdk:DataGridTemplateColumn>
+                    </sdk:DataGrid.Columns>
+                    <i:Interaction.Triggers>
+                        <i:EventTrigger EventName="SelectionChanged">
+                            <c:ActionMessage MethodName="PostSelected">
+                                <!--<c:Parameter Value="{Binding ElementName=SelectedPostList}"/>-->
+                                <!--<c:Parameter Value="$source"/>-->
+                            </c:ActionMessage>
+                        </i:EventTrigger>
+                    </i:Interaction.Triggers>
+                </sdk:DataGrid>
+                <Grid Grid.Column="2" Grid.Row="1" Visibility="{Binding Path=OldPostsVisible}">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*"/>
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <ListBox x:Name="SelectedPostList"  ItemsSource="{Binding SelectedPost.Children}" IsHitTestVisible="False">
+                        <ListBox.ItemContainerStyle>
+                            <Style TargetType="ListBoxItem">
+                                <Setter Property="HorizontalContentAlignment" Value="Stretch"></Setter>
+                            </Style>
+                        </ListBox.ItemContainerStyle>
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <Grid HorizontalAlignment="Stretch">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="30"/>
+                                        <ColumnDefinition/>
+                                        <ColumnDefinition Width="30"/>
+                                    </Grid.ColumnDefinitions>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto"/>
+                                        <RowDefinition/>
+                                        <RowDefinition Height="Auto"/>
+                                    </Grid.RowDefinitions>
+                                    <StackPanel Grid.Row="0" Grid.Column="1" Orientation="Vertical">
+                                        <TextBlock Text="{Binding PostedBy}" HorizontalAlignment="Right" FontWeight="Bold"/>
+                                        <TextBlock Text="{Binding PostDate}" HorizontalAlignment="Right"/>
+                                    </StackPanel>
+                                    <StackPanel Grid.Row="1" Grid.Column="1" Orientation="Vertical">
+                                        <TextBlock Text="{Binding PostSubject}" HorizontalAlignment="Stretch" TextWrapping="Wrap"  Margin="0,-10,0,10" FontWeight="Bold"/>
+                                        <customcontrols:SilverlightTextEditor PostedString="{Binding Path=PostString, Mode=TwoWay}" VerticalAlignment="Stretch"  IsReadonly="True" MinHeight="145" HorizontalAlignment="Stretch"/>
+                                    </StackPanel>
+                                    <Border Grid.Row="2" Grid.Column="1" BorderThickness="1" BorderBrush="Gray"/>
+                                </Grid>
+                                <!--<StackPanel Orientation="Vertical" IsHitTestVisible="False">
+                                <TextBlock Text="{Binding PostDate}"/>
+                                <TextBlock Text="{Binding PostString}" MinHeight="45" HorizontalAlignment="Stretch" TextWrapping="Wrap"/>
+                                <Line Fill="Black" Width="190" Stretch="Fill"/>
+                            </StackPanel>-->
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                    <Grid Grid.Row="1" Visibility="{Binding Path=ReplyPostVisible}">
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition Height="Auto"/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <Grid>
+                            <Grid.RowDefinitions>
+                                <RowDefinition/>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto"/>
+                                <ColumnDefinition Width="*"/>
+                            </Grid.ColumnDefinitions>
+                            <TextBlock Grid.Column="0" Text="Reply" FontStyle="Italic" FontFamily="Arial" FontSize="10"/>
+                            <!--<TextBlock Grid.Column="0" Text="Name:" VerticalAlignment="Center" FontFamily="Verdana" FontSize="16"/>
+                            <TextBox Grid.Column="1" Text="{Binding ReplyPost.PostedBy, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" HorizontalAlignment="Stretch"/>-->
+                        </Grid>
+                        <Border Grid.Row="3" BorderThickness="1" BorderBrush="Gray"/>
+                        <TextBox Grid.Row="4" HorizontalScrollBarVisibility="Auto"  VerticalScrollBarVisibility="Auto" TextWrapping="Wrap" AcceptsReturn="True" MinHeight="250" Text="{Binding Path=ReplyPost.PostString, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                    </Grid>
+                </Grid>
+                <Grid Grid.Column="2" Grid.Row="1" Visibility="{Binding Path=NewPostVisible}">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid Grid.Row="0">
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition/>
+                        </Grid.RowDefinitions>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <!--<TextBlock Grid.Column="0" Text="Name:" VerticalAlignment="Center" FontFamily="Verdana" FontSize="16"/>-->
+                        <!--<TextBlock Grid.Column="1" Text="{Binding NewPost.PostedBy, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" HorizontalAlignment="Stretch"/>-->
+                        <TextBlock Grid.Column="0" Grid.Row="1" Text="Subject:" VerticalAlignment="Center" FontFamily="Arial" FontSize="13"/>
+                        <TextBox Grid.Column="1" Grid.Row="1" Text="{Binding NewPost.PostSubject, UpdateSourceTrigger=PropertyChanged, Mode=TwoWay}" HorizontalAlignment="Stretch"/>
+                    </Grid>
+                    <Border Grid.Row="1" BorderThickness="1" BorderBrush="Gray"/>
+                    <!--DataContext="{Binding Path=NewPost.PostString, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"-->
+                    <customcontrols:SilverlightTextEditor Grid.Row="2" x:Name="BodyTextBox" />
+                    <!--<RichTextBox Grid.Row="2" HorizontalScrollBarVisibility="Auto"  VerticalScrollBarVisibility="Auto" Name="BodyTextBox" TextWrapping="Wrap" AcceptsReturn="True" DataContext="{Binding Path=NewPost.PostString, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>-->
+                    <!--<TextBox Grid.Row="2" HorizontalScrollBarVisibility="Auto"  VerticalScrollBarVisibility="Auto" Name="BodyTextBox" TextWrapping="Wrap" AcceptsReturn="True" Text="{Binding Path=NewPost.PostString, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>-->
+                </Grid>
+            </Grid>
+        </Grid>
+    </Border>
+</UserControl>

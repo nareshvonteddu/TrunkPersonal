@@ -1,0 +1,15 @@
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn.Web\bin\NRIUturn.Web.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn.Web\bin\NRIUturn.Web.pdb
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn.Web\obj\Debug\NRIUturn.Web.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn.Web\obj\Debug\NRIUturn.Web.pdb
+C:\NRIUturn\NRIUturn\NRIUturn.Web\bin\NRIUturn.Web.dll
+C:\NRIUturn\NRIUturn\NRIUturn.Web\bin\NRIUturn.Web.pdb
+C:\NRIUturn\NRIUturn\NRIUturn.Web\obj\Debug\NRIUturn.Web.dll
+C:\NRIUturn\NRIUturn\NRIUturn.Web\obj\Debug\NRIUturn.Web.pdb
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn.Web\bin\NRIUturn.Web.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn.Web\bin\NRIUturn.Web.pdb
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn.Web\obj\Debug\NRIUturn.Web.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn.Web\obj\Debug\NRIUturn.Web.pdb
+C:\NRIUturn\NRIUturn\NRIUturn.Web\obj\Debug\NRIUturn.Web.csprojResolveAssemblyReference.cache

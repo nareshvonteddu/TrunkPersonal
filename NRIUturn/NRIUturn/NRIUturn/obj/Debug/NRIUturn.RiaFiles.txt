@@ -1,0 +1,2 @@
+C:\NRIUturn\NRIUturn\NRIUturn
+Generated_Code\NRIUturn.Web.g.cs

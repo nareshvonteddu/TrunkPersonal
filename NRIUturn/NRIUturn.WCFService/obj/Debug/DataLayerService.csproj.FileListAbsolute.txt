@@ -1,0 +1,10 @@
+C:\NRIUturn\NRIUturn.WCFService\bin\DataLayerService.dll
+C:\NRIUturn\NRIUturn.WCFService\bin\DataLayerService.pdb
+C:\NRIUturn\NRIUturn.WCFService\obj\Debug\DataLayerService.dll
+C:\NRIUturn\NRIUturn.WCFService\obj\Debug\DataLayerService.pdb
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn.WCFService\bin\DataLayerService.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn.WCFService\bin\DataLayerService.pdb
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn.WCFService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn.WCFService\obj\Debug\DataLayerService.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn.WCFService\obj\Debug\DataLayerService.pdb
+C:\NRIUturn\NRIUturn.WCFService\obj\Debug\DataLayerService.csprojResolveAssemblyReference.cache

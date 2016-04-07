@@ -1,0 +1,5 @@
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn.WCFService\bin\NRIUturn.WCFService.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn.WCFService\bin\NRIUturn.WCFService.pdb
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn.WCFService\obj\Release\ResolveAssemblyReference.cache
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn.WCFService\obj\Release\NRIUturn.WCFService.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn.WCFService\obj\Release\NRIUturn.WCFService.pdb

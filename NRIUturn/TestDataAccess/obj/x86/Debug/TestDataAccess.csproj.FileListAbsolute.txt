@@ -1,0 +1,21 @@
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\TestDataAccess\bin\Debug\TestDataAccess.exe
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\TestDataAccess\bin\Debug\TestDataAccess.pdb
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\TestDataAccess\bin\Debug\DataLayerService.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\TestDataAccess\bin\Debug\DataLayerService.pdb
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\TestDataAccess\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\TestDataAccess\obj\x86\Debug\TestDataAccess.exe
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\TestDataAccess\obj\x86\Debug\TestDataAccess.pdb
+C:\NRIUturn\TestDataAccess\bin\Debug\TestDataAccess.exe
+C:\NRIUturn\TestDataAccess\bin\Debug\TestDataAccess.pdb
+C:\NRIUturn\TestDataAccess\bin\Debug\DataLayerService.dll
+C:\NRIUturn\TestDataAccess\bin\Debug\DataLayerService.pdb
+C:\NRIUturn\TestDataAccess\obj\x86\Debug\TestDataAccess.exe
+C:\NRIUturn\TestDataAccess\obj\x86\Debug\TestDataAccess.pdb
+C:\Users\nvonteddu\Desktop\NRIUturn\TestDataAccess\bin\Debug\TestDataAccess.exe
+C:\Users\nvonteddu\Desktop\NRIUturn\TestDataAccess\bin\Debug\TestDataAccess.pdb
+C:\Users\nvonteddu\Desktop\NRIUturn\TestDataAccess\bin\Debug\DataLayerService.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\TestDataAccess\bin\Debug\DataLayerService.pdb
+C:\Users\nvonteddu\Desktop\NRIUturn\TestDataAccess\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\nvonteddu\Desktop\NRIUturn\TestDataAccess\obj\x86\Debug\TestDataAccess.exe
+C:\Users\nvonteddu\Desktop\NRIUturn\TestDataAccess\obj\x86\Debug\TestDataAccess.pdb
+C:\NRIUturn\TestDataAccess\obj\x86\Debug\TestDataAccess.csprojResolveAssemblyReference.cache

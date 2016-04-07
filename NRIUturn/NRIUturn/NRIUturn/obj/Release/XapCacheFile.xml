@@ -1,0 +1,28 @@
+﻿<xapCache source="C:\NRIUturn\NRIUturn\NRIUturn\Bin\Release\NRIUturn.xap" wasSigned="False" certificateThumbprint="" TimeStampUrl="" lastWriteTime="10/12/2012 3:32:55 PM">
+  <file source="C:\NRIUturn\NRIUturn\NRIUturn\obj\Release\NRIUturn.dll" archivePath="NRIUturn.dll" lastWriteTime="10/12/2012 3:32:53 PM" />
+  <file source="C:\NRIUturn\CaliburnDlls\Autofac.dll" archivePath="Autofac.dll" lastWriteTime="6/18/2012 7:11:14 AM" />
+  <file source="C:\NRIUturn\NRIUturn\NRIUturn\Bin\Release\Caliburn.Micro.dll" archivePath="Caliburn.Micro.dll" lastWriteTime="1/31/2012 2:04:42 PM" />
+  <file source="C:\Program Files\Microsoft SDKs\Expression\Blend\Silverlight\v4.0\Libraries\Microsoft.Expression.Controls.dll" archivePath="Microsoft.Expression.Controls.dll" lastWriteTime="5/25/2010 5:59:20 PM" />
+  <file source="C:\Program Files\Microsoft SDKs\Expression\Blend\Silverlight\v4.0\Libraries\Microsoft.Expression.Drawing.dll" archivePath="Microsoft.Expression.Drawing.dll" lastWriteTime="5/25/2010 5:59:20 PM" />
+  <file source="C:\Program Files\Microsoft SDKs\Expression\Blend\Silverlight\v4.0\Libraries\Microsoft.Expression.Effects.dll" archivePath="Microsoft.Expression.Effects.dll" lastWriteTime="5/25/2010 5:59:20 PM" />
+  <file source="C:\Program Files\Microsoft SDKs\Expression\Blend\Silverlight\v4.0\Libraries\Microsoft.Expression.Interactions.dll" archivePath="Microsoft.Expression.Interactions.dll" lastWriteTime="5/25/2010 5:59:20 PM" />
+  <file source="C:\Program Files\Microsoft SDKs\Expression\Blend\Silverlight\v4.0\Libraries\Microsoft.Expression.Prototyping.Interactivity.dll" archivePath="Microsoft.Expression.Prototyping.Interactivity.dll" lastWriteTime="5/25/2010 5:59:20 PM" />
+  <file source="C:\Program Files\Microsoft SDKs\Expression\Blend\Silverlight\v4.0\Libraries\Microsoft.Expression.Prototyping.SketchControls.dll" archivePath="Microsoft.Expression.Prototyping.SketchControls.dll" lastWriteTime="5/25/2010 5:59:20 PM" />
+  <file source="c:\Program Files\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.ComponentModel.Composition.dll" archivePath="System.ComponentModel.Composition.dll" lastWriteTime="11/18/2011 4:40:20 PM" />
+  <file source="c:\Program Files\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.ComponentModel.DataAnnotations.dll" archivePath="System.ComponentModel.DataAnnotations.dll" lastWriteTime="11/18/2011 4:40:20 PM" />
+  <file source="c:\Program Files\Microsoft SDKs\RIA Services\v1.0\Libraries\Silverlight\System.ServiceModel.DomainServices.Client.dll" archivePath="System.ServiceModel.DomainServices.Client.dll" lastWriteTime="9/9/2011 9:23:30 PM" />
+  <file source="c:\Program Files\Microsoft SDKs\RIA Services\v1.0\Libraries\Silverlight\System.ServiceModel.DomainServices.Client.Web.dll" archivePath="System.ServiceModel.DomainServices.Client.Web.dll" lastWriteTime="9/9/2011 9:23:32 PM" />
+  <file source="c:\Program Files\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.ServiceModel.Web.Extensions.dll" archivePath="System.ServiceModel.Web.Extensions.dll" lastWriteTime="11/18/2011 4:40:20 PM" />
+  <file source="c:\Program Files\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Controls.Data.dll" archivePath="System.Windows.Controls.Data.dll" lastWriteTime="11/18/2011 4:40:20 PM" />
+  <file source="c:\Program Files\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Controls.Data.Input.dll" archivePath="System.Windows.Controls.Data.Input.dll" lastWriteTime="11/18/2011 4:40:20 PM" />
+  <file source="c:\Program Files\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Controls.dll" archivePath="System.Windows.Controls.dll" lastWriteTime="11/18/2011 4:40:20 PM" />
+  <file source="c:\Program Files\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Controls.Input.dll" archivePath="System.Windows.Controls.Input.dll" lastWriteTime="11/18/2011 4:40:20 PM" />
+  <file source="c:\Program Files\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Controls.Navigation.dll" archivePath="System.Windows.Controls.Navigation.dll" lastWriteTime="11/18/2011 4:40:20 PM" />
+  <file source="C:\Program Files\Microsoft SDKs\Silverlight\v5.0\Toolkit\dec11\Bin\System.Windows.Controls.Toolkit.dll" archivePath="System.Windows.Controls.Toolkit.dll" lastWriteTime="12/9/2011 10:25:04 AM" />
+  <file source="C:\Program Files\Microsoft SDKs\Silverlight\v5.0\Toolkit\dec11\Bin\System.Windows.Controls.Toolkit.Internals.dll" archivePath="System.Windows.Controls.Toolkit.Internals.dll" lastWriteTime="12/9/2011 10:25:04 AM" />
+  <file source="c:\Program Files\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Windows.Data.dll" archivePath="System.Windows.Data.dll" lastWriteTime="11/18/2011 4:40:20 PM" />
+  <file source="C:\Program Files\Microsoft SDKs\Expression\Blend\Silverlight\v4.0\Libraries\System.Windows.Interactivity.dll" archivePath="System.Windows.Interactivity.dll" lastWriteTime="5/25/2010 5:59:20 PM" />
+  <file source="c:\Program Files\Microsoft SDKs\Silverlight\v5.0\Libraries\Client\System.Xml.Serialization.dll" archivePath="System.Xml.Serialization.dll" lastWriteTime="11/18/2011 4:40:20 PM" />
+  <file source="C:\NRIUturn\NRIUturn\NRIUturn\ServiceReferences.ClientConfig" archivePath="ServiceReferences.ClientConfig" lastWriteTime="9/20/2012 6:09:43 PM" />
+  <file source="C:\NRIUturn\NRIUturn\NRIUturn\Bin\Release\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="10/12/2012 11:19:42 AM" />
+</xapCache>

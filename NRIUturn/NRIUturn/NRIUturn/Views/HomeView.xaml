@@ -1,0 +1,271 @@
+﻿<UserControl x:Class="NRIUturn.Views.HomeView" 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+	xmlns:ec="http://schemas.microsoft.com/expression/2010/controls" 
+	xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:sdk="http://schemas.microsoft.com/winfx/2006/xaml/presentation/sdk"
+    xmlns:toolkit="http://schemas.microsoft.com/winfx/2006/xaml/presentation/toolkit"
+    xmlns:navigation="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Navigation"
+    xmlns:local="clr-namespace:NRIUturn.Assets"    
+    xmlns:uriMapper="clr-namespace:System.Windows.Navigation;assembly=System.Windows.Controls.Navigation"   
+    xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+    xmlns:l="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Data.Input"
+    xmlns:System="clr-namespace:System;assembly=mscorlib" 
+    xmlns:controls="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls"
+    xmlns:System_Windows_Controls_Primitives="clr-namespace:System.Windows.Controls.Primitives;assembly=System.Windows.Controls"
+    xmlns:data="clr-namespace:System.Windows.Controls;assembly=System.Windows.Controls.Data" 
+    xmlns:dataPrimitives="clr-namespace:System.Windows.Controls.Primitives;assembly=System.Windows.Controls.Data" 
+    mc:Ignorable="d" d:DesignWidth="640" d:DesignHeight="580">
+    <UserControl.Resources>
+        <Style x:Key="ButtonStyle1" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Canvas>
+                            <ContentPresenter Canvas.Left="147.014" Canvas.Top="60.144" RenderTransformOrigin="0.5,0.5" UseLayoutRounding="False" d:LayoutRounding="Auto" Width="37.837">
+                                <ContentPresenter.RenderTransform>
+                                    <CompositeTransform Rotation="0.979"/>
+                                </ContentPresenter.RenderTransform>
+                            </ContentPresenter>
+                        </Canvas>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="TextBoxStyle1" TargetType="TextBox">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="TextBox">
+                        <Grid>
+                            <ContentPresenter Content="Travel"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="ButtonStyle2" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <VisualStateManager.VisualStateGroups>
+                                <VisualStateGroup x:Name="CommonStates">
+                                    <VisualState x:Name="Normal"/>
+                                    <VisualState x:Name="MouseOver">
+                                        <Storyboard>
+                                            <ColorAnimation Duration="0" To="#FFF3EDED" Storyboard.TargetProperty="(TextBlock.Foreground).(SolidColorBrush.Color)" Storyboard.TargetName="textBlock" d:IsOptimized="True"/>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Pressed"/>
+                                    <VisualState x:Name="Disabled"/>
+                                </VisualStateGroup>
+                            </VisualStateManager.VisualStateGroups>
+                            <local:BottomArch Foreground="{x:Null}"/>
+                            <TextBlock x:Name="textBlock" Text="Immigration" Margin="117,0,138,35" Height="23" VerticalAlignment="Bottom" FontWeight="Bold" FontSize="14" HorizontalAlignment="Center" Foreground="#FF100E0E"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="ButtonStyle3" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <VisualStateManager.VisualStateGroups>
+                                <VisualStateGroup x:Name="CommonStates">
+                                    <VisualState x:Name="Normal"/>
+                                    <VisualState x:Name="MouseOver">
+                                        <Storyboard>
+                                            <ColorAnimation Duration="0" To="#FFF5EBEB" Storyboard.TargetProperty="(TextBlock.Foreground).(SolidColorBrush.Color)" Storyboard.TargetName="textBlock" d:IsOptimized="True"/>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Pressed"/>
+                                    <VisualState x:Name="Disabled"/>
+                                </VisualStateGroup>
+                            </VisualStateManager.VisualStateGroups>
+                            <Rectangle x:Name="rectangle" Fill="#FFD09D7F">
+                            </Rectangle>
+                            <TextBlock x:Name="textBlock" Text="House" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold" FontSize="14"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="ButtonStyle4" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <Grid.Resources>
+                                <Storyboard x:Name="Storyboard1"/>
+                                <Storyboard x:Name="Storyboard2"/>
+                            </Grid.Resources>
+                            <VisualStateManager.VisualStateGroups>
+                                <VisualStateGroup x:Name="CommonStates">
+                                    <VisualStateGroup.Transitions>
+                                    </VisualStateGroup.Transitions>
+                                    <VisualState x:Name="Normal"/>
+                                    <VisualState x:Name="MouseOver">
+                                        <Storyboard>
+                                            <ColorAnimation Duration="0" To="#FFF7E8E8" Storyboard.TargetProperty="(TextBlock.Foreground).(SolidColorBrush.Color)" Storyboard.TargetName="textBlock" d:IsOptimized="True"/>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Pressed"/>
+                                    <VisualState x:Name="Disabled"/>
+                                </VisualStateGroup>
+                                <VisualStateGroup x:Name="FocusStates">
+                                    <VisualState x:Name="Focused"/>
+                                    <VisualState x:Name="Unfocused"/>
+                                </VisualStateGroup>
+                            </VisualStateManager.VisualStateGroups>
+                            <Rectangle x:Name="rectangle" Fill="#FFF47070"/>
+                            <TextBlock x:Name="textBlock" Text="Job" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold" FontSize="13"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Storyboard x:Name="Storyboard1"/>
+        <Style x:Key="ButtonStyle5" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <VisualStateManager.VisualStateGroups>
+                                <VisualStateGroup x:Name="CommonStates">
+                                    <VisualState x:Name="Normal"/>
+                                    <VisualState x:Name="MouseOver">
+                                        <Storyboard>
+                                            <ColorAnimation Duration="0" To="#FFF3EBEB" Storyboard.TargetProperty="(TextBlock.Foreground).(SolidColorBrush.Color)" Storyboard.TargetName="textBlock" d:IsOptimized="True"/>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Pressed"/>
+                                    <VisualState x:Name="Disabled"/>
+                                </VisualStateGroup>
+                            </VisualStateManager.VisualStateGroups>
+                            <Rectangle Fill="#FF88CA65"/>
+                            <TextBlock x:Name="textBlock" Text="Education" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold" FontSize="13" Foreground="Black"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="ButtonStyle6" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <VisualStateManager.VisualStateGroups>
+                                <VisualStateGroup x:Name="CommonStates">
+                                    <VisualState x:Name="Normal"/>
+                                    <VisualState x:Name="MouseOver">
+                                        <Storyboard>
+                                            <ColorAnimation Duration="0" To="#FFFBF9F9" Storyboard.TargetProperty="(TextBlock.Foreground).(SolidColorBrush.Color)" Storyboard.TargetName="textBlock" d:IsOptimized="True"/>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Pressed"/>
+                                    <VisualState x:Name="Disabled"/>
+                                </VisualStateGroup>
+                            </VisualStateManager.VisualStateGroups>
+                            <Rectangle Fill="#FFBDD07F"/>
+                            <TextBlock x:Name="textBlock" Text="Education" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold" FontSize="13"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="ButtonStyle7" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <VisualStateManager.VisualStateGroups>
+                                <VisualStateGroup x:Name="CommonStates">
+                                    <VisualState x:Name="Normal"/>
+                                    <VisualState x:Name="MouseOver">
+                                        <Storyboard>
+                                            <ColorAnimation Duration="0" To="#FFF9F7F7" Storyboard.TargetProperty="(TextBlock.Foreground).(SolidColorBrush.Color)" Storyboard.TargetName="textBlock" d:IsOptimized="True"/>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Pressed"/>
+                                    <VisualState x:Name="Disabled"/>
+                                </VisualStateGroup>
+                            </VisualStateManager.VisualStateGroups>
+                            <Rectangle Fill="#FF7FCED0"/>
+                            <TextBlock x:Name="textBlock" Text="Job" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold" FontSize="13"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+        <Style x:Key="ButtonStyle8" TargetType="Button">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Grid>
+                            <VisualStateManager.VisualStateGroups>
+                                <VisualStateGroup x:Name="CommonStates">
+                                    <VisualState x:Name="Normal"/>
+                                    <VisualState x:Name="MouseOver">
+                                        <Storyboard>
+                                            <ColorAnimation Duration="0" To="#FFFDF7F7" Storyboard.TargetProperty="(TextBlock.Foreground).(SolidColorBrush.Color)" Storyboard.TargetName="textBlock" d:IsOptimized="True"/>
+                                        </Storyboard>
+                                    </VisualState>
+                                    <VisualState x:Name="Pressed"/>
+                                    <VisualState x:Name="Disabled"/>
+                                </VisualStateGroup>
+                            </VisualStateManager.VisualStateGroups>
+                            <Rectangle Fill="#FFD07FCD"/>
+                            <TextBlock x:Name="textBlock" Text="House" HorizontalAlignment="Center" VerticalAlignment="Center" FontWeight="Bold" FontSize="13"/>
+                        </Grid>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </UserControl.Resources>
+    <!--<Border BorderBrush="LightPink" BorderThickness="2" VerticalAlignment="Stretch" HorizontalAlignment="Stretch">-->
+        <Grid Background="LightPink">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="50"/>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="50"/>
+            </Grid.ColumnDefinitions>        
+            <Grid Background="White" Grid.Column="1" Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition Height="50"/>
+                </Grid.RowDefinitions>
+                <Grid  VerticalAlignment="Center" HorizontalAlignment="Center" Height="490" Width="449" Grid.Column="1">
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Image Source="/NRIUturn;component/Images/american flag (round).jpg" VerticalAlignment="Bottom" Height="80" Width="80" HorizontalAlignment="Left" Margin="4,0,0,0" />
+                    <Image Source="/NRIUturn;component/Images/indian flag (round).jpg" VerticalAlignment="Bottom" Height="80" Width="80" HorizontalAlignment="Right" Margin="0,0,7,0" />
+                    <Button x:Name="Immigration" Grid.Row="4" Cursor="Hand" Content="Button" Height="120" Style="{StaticResource ButtonStyle2}" VerticalAlignment="Bottom" HorizontalAlignment="Center" />
+                    <Button x:Name="USHouse" Grid.Row="3" Cursor="Hand" Content="Button" Style="{StaticResource ButtonStyle8}" HorizontalAlignment="Left" Width="85" Height="98" Margin="3,0,0,0" />
+                    <Button x:Name="USJob" Grid.Row="2" Cursor="Hand" Content="Button" Style="{StaticResource ButtonStyle4}" HorizontalAlignment="Left" Width="85" Height="98" Margin="3,0,0,0"/>
+                    <Button x:Name="USEducation" Grid.Row="1" Cursor="Hand" Content="Button" Style="{StaticResource ButtonStyle5}" HorizontalAlignment="Left" Width="85" Height="98" Margin="3,0,0,0"/>
+                    <Button x:Name="IndiaEducation" Grid.Row="1" Cursor="Hand" Content="Button" Style="{StaticResource ButtonStyle6}" HorizontalAlignment="Right" Width="86.5" Height="98" Margin="0,0,3,0"/>
+                    <Button x:Name="IndiaJob" Grid.Row="2" Cursor="Hand" Content="Button" Style="{StaticResource ButtonStyle7}" HorizontalAlignment="Right"  Width="86.5" Height="98" Margin="0,0,3,0"/>
+                    <Button x:Name="IndiaHouse" Grid.Row="3" Cursor="Hand" Content="Button" Style="{StaticResource ButtonStyle3}" HorizontalAlignment="Right" Width="86.5" Height="98" Margin="0,0,3,0" />
+                </Grid>
+                <Grid Background="White" Grid.Row="1" Grid.Column="1">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Center">
+                        <TextBlock Text="1 USD = " FontWeight="Bold" FontSize="20"/>
+                        <TextBlock Text="{Binding DollarRate}" FontWeight="Bold" FontSize="20" Margin="0,0,5,0"/>
+                        <TextBlock Text="INRs" FontWeight="Bold" FontSize="20"/>
+                    </StackPanel>
+                </Grid>
+            </Grid>
+        </Grid>
+    <!--</Border>-->
+</UserControl>

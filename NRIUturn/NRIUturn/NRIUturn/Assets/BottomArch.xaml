@@ -1,0 +1,12 @@
+﻿<UserControl x:Class="NRIUturn.Assets.BottomArch"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
+ xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+ xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+ xmlns:ei="http://schemas.microsoft.com/expression/2010/interactions"
+    mc:Ignorable="d"
+   d:DesignWidth="338.488" d:DesignHeight="116.992">
+    <Grid x:Name="LayoutRoot">
+        <Path x:Name="path" Data="M179.98824,75.564583 C219.19395,75.564735 207.30545,77.564568 227.30547,75.564583 C237.40999,137.77922 239.48151,165.68446 295.51578,165.49722 C362.49878,165.27339 376.01794,167.10422 376.13065,167.1055 C377.36975,167.11957 355.73923,165.27339 461.93909,164.23846 C515.63135,163.71523 506.17053,137.66481 515.26459,77.394478 C536.5979,77.394478 537.19275,77.39534 558.52606,77.39534 C558.52606,77.394981 597.73181,75.56295 597.73181,79.224403 C597.73193,97.280869 599.1969,130.48897 599.19727,185.41316 C599.19775,256.82745 561.73621,275.12311 534.30518,275.12332 C489.69174,275.12369 504.62234,276.95184 391.00192,276.953 C207.14056,276.9549 265.60751,276.95346 207.14003,276.95346 C129.85829,276.95346 152.95157,110.3485 147.54451,79.224403" Fill="#FF7F7FD0" Margin="2,-0.999,1.916,8" Stretch="Fill" UseLayoutRounding="False"/>
+    </Grid>
+</UserControl>

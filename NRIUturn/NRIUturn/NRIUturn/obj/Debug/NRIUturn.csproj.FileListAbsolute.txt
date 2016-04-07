@@ -1,0 +1,993 @@
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\NRIUturn.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\NRIUturn.pdb
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\AppManifest.xaml
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\NRIUturn.xap
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\NRIUturnTestPage.html
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Caliburn.Micro.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Microsoft.Expression.Prototyping.Interactivity.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Microsoft.Expression.Prototyping.SketchControls.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.ServiceModel.DomainServices.Client.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.ServiceModel.DomainServices.Client.Web.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.ServiceModel.Web.Extensions.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Microsoft.Expression.Controls.xml
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Microsoft.Expression.Effects.xml
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.ServiceModel.DomainServices.Client.xml
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.ServiceModel.DomainServices.Client.Web.xml
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.ServiceModel.Web.Extensions.xml
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.xml
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.ServiceModel.Web.Extensions.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.ServiceModel.Web.Extensions.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.ServiceModel.Web.Extensions.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.ServiceModel.Web.Extensions.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.ServiceModel.Web.Extensions.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.ServiceModel.Web.Extensions.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.ServiceModel.Web.Extensions.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.ServiceModel.Web.Extensions.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.ServiceModel.Web.Extensions.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\obj\Debug\App.g.i.cs
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Assets\BottomArch.g.i.cs
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\obj\Debug\ShellView.g.i.cs
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\obj\Debug\NRIUturn.g.resources
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\obj\Debug\NRIUturn.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\obj\Debug\NRIUturn.pdb
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\obj\Debug\XapCacheFile.xml
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Caliburn.Micro.pdb
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Caliburn.Micro.xml
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\About.g.i.cs
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\ErrorWindow.g.i.cs
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\HomeView.g.i.cs
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Data.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Data.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Data.xml
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Data.xml
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\da\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\el\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\et\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\he\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\id\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\no\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\th\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.Windows.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.Windows.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.Windows.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.Windows.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.Windows.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.Windows.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.Windows.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Input.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Input.xml
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ar\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\bg\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ca\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\cs\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\da\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\el\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\et\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\eu\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fi\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\he\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hr\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hu\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\id\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lt\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lv\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ms\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\nl\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\no\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pl\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt-BR\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ro\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sk\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sl\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sv\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\th\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\tr\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\uk\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\vi\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Toolkit.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Toolkit.Internals.dll
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Toolkit.pdb
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Toolkit.xml
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\ImigrationView.g.i.cs
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\IndiaEducationView.g.i.cs
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\IndiaHouseView.g.i.cs
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\IndiaJobView.g.i.cs
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\USEducationView.g.i.cs
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\USHouseView.g.i.cs
+C:\Users\nvonteddu\Documents\Visual Studio 2010\Projects\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\USJobView.g.i.cs
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\NRIUturn.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\NRIUturn.pdb
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\AppManifest.xaml
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\NRIUturn.xap
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\NRIUturnTestPage.html
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Autofac.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Microsoft.Expression.Controls.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Microsoft.Expression.Effects.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Microsoft.Expression.Prototyping.Interactivity.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Microsoft.Expression.Prototyping.SketchControls.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.ComponentModel.Composition.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.ServiceModel.DomainServices.Client.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.ServiceModel.DomainServices.Client.Web.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.ServiceModel.Web.Extensions.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Data.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Input.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Data.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Interactivity.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Xml.Serialization.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.ComponentModel.Composition.xml
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.ServiceModel.DomainServices.Client.xml
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.ServiceModel.DomainServices.Client.Web.xml
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.ServiceModel.Web.Extensions.xml
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Data.xml
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Input.xml
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Toolkit.pdb
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Toolkit.xml
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Data.xml
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.xml
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Xml.Serialization.xml
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.ComponentModel.Composition.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.ComponentModel.Composition.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.ComponentModel.Composition.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.ComponentModel.Composition.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.ComponentModel.Composition.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.ComponentModel.Composition.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.ComponentModel.Composition.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.ComponentModel.Composition.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.ComponentModel.Composition.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.ServiceModel.DomainServices.Client.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.ServiceModel.DomainServices.Client.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.ServiceModel.DomainServices.Client.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.ServiceModel.DomainServices.Client.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.ServiceModel.DomainServices.Client.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.ServiceModel.DomainServices.Client.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.ServiceModel.DomainServices.Client.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Client.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Client.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.ServiceModel.Web.Extensions.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.ServiceModel.Web.Extensions.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.ServiceModel.Web.Extensions.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.ServiceModel.Web.Extensions.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.ServiceModel.Web.Extensions.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.ServiceModel.Web.Extensions.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.ServiceModel.Web.Extensions.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.ServiceModel.Web.Extensions.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.ServiceModel.Web.Extensions.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\da\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\el\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\et\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\he\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\id\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\no\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\th\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ar\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\bg\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ca\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\cs\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\da\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\el\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\et\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\eu\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fi\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\he\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hr\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hu\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\id\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lt\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lv\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ms\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\nl\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\no\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pl\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt-BR\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ro\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sk\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sl\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sv\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\th\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\tr\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\uk\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\vi\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.Windows.Controls.Input.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.Windows.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.Windows.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.Windows.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.Windows.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.Windows.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.Windows.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.Windows.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.Xml.Serialization.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.Xml.Serialization.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.Xml.Serialization.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\obj\Debug\NRIUturn.g.resources
+C:\NRIUturn\NRIUturn\NRIUturn\obj\Debug\NRIUturn.dll
+C:\NRIUturn\NRIUturn\NRIUturn\obj\Debug\NRIUturn.pdb
+C:\NRIUturn\NRIUturn\NRIUturn\obj\Debug\XapCacheFile.xml
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\obj\Debug\App.g.i.cs
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\obj\Debug\CustomControls\InsertURL.g.i.cs
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\obj\Debug\CustomControls\RichTextEditor.g.i.cs
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\obj\Debug\CustomControls\SilverlightTextEditor.g.i.cs
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\About.g.i.cs
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\ErrorWindow.g.i.cs
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\ImigrationView.g.i.cs
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\IndiaEducationView.g.i.cs
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\HomeView.g.i.cs
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\IndiaHouseView.g.i.cs
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\IndiaJobView.g.i.cs
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\LoginPageView.g.i.cs
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\USEducationView.g.i.cs
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\USHouseView.g.i.cs
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\USJobView.g.i.cs
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\WaitControlView.g.i.cs
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Assets\BottomArch.g.i.cs
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\obj\Debug\ShellView.g.i.cs
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\obj\Debug\NRIUturn.g.resources
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\NRIUturn.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\NRIUturn.pdb
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\AppManifest.xaml
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\NRIUturn.xap
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\NRIUturnTestPage.html
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Autofac.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Caliburn.Micro.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Microsoft.Expression.Prototyping.Interactivity.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Microsoft.Expression.Prototyping.SketchControls.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.ComponentModel.Composition.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.ComponentModel.DataAnnotations.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.ServiceModel.DomainServices.Client.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.ServiceModel.DomainServices.Client.Web.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.ServiceModel.Web.Extensions.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Data.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Data.Input.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Input.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Navigation.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Toolkit.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Toolkit.Internals.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Data.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Interactivity.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Xml.Serialization.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Microsoft.Expression.Controls.xml
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Microsoft.Expression.Effects.xml
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.ComponentModel.Composition.xml
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.ComponentModel.DataAnnotations.xml
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.ServiceModel.DomainServices.Client.xml
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.ServiceModel.DomainServices.Client.Web.xml
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.ServiceModel.Web.Extensions.xml
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Data.xml
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Data.Input.xml
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Input.xml
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Toolkit.pdb
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Toolkit.xml
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Data.xml
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Interactivity.xml
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.xml
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Windows.Controls.Navigation.xml
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\System.Xml.Serialization.xml
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.ComponentModel.Composition.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.ComponentModel.Composition.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.ComponentModel.Composition.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.ComponentModel.Composition.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.ComponentModel.Composition.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.ComponentModel.Composition.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.ComponentModel.Composition.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.ComponentModel.Composition.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.ComponentModel.Composition.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ar\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\bg\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ca\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\cs\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\da\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\el\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\et\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\eu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\he\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hu\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\id\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ms\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\nl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\no\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt-BR\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ro\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sl\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Cyrl-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Latn-CS\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sv\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\th\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\tr\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\uk\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\vi\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.ComponentModel.DataAnnotations.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Client.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.ServiceModel.DomainServices.Client.Web.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.ServiceModel.Web.Extensions.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.ServiceModel.Web.Extensions.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.ServiceModel.Web.Extensions.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.ServiceModel.Web.Extensions.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.ServiceModel.Web.Extensions.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.ServiceModel.Web.Extensions.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.ServiceModel.Web.Extensions.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.ServiceModel.Web.Extensions.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.ServiceModel.Web.Extensions.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ar\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\bg\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ca\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\cs\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\da\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\el\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\et\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\eu\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fi\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\he\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hr\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hu\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\id\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lt\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lv\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ms\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\nl\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\no\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pl\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt-BR\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ro\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sk\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sl\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sv\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\th\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\tr\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\uk\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\vi\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.Windows.Controls.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ar\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\bg\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ca\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\cs\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\da\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\el\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\et\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\eu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\he\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hu\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\id\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ms\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\nl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\no\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt-BR\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ro\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sl\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sv\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\th\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\tr\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\uk\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\vi\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.Windows.Controls.Data.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ar\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\bg\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ca\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\cs\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\da\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\el\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\et\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\eu\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fi\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\he\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hr\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hu\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\id\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lt\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lv\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ms\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\nl\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\no\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pl\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt-BR\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ro\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sk\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sl\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Latn-CS\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sv\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\th\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\tr\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\uk\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\vi\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.Windows.Controls.Input.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.Windows.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.Windows.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.Windows.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.Windows.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.Windows.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.Windows.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.Windows.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.Windows.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.Windows.Data.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ar\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\bg\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ca\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\cs\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\da\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\el\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\et\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\eu\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fi\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\he\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hr\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\hu\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\id\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lt\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\lv\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ms\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\nl\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\no\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pl\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\pt-BR\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ro\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sk\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sl\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Cyrl-CS\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sr-Latn-CS\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\sv\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\th\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\tr\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\uk\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\vi\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.Windows.Controls.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.Windows.Controls.Navigation.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.Windows.Controls.Navigation.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.Windows.Controls.Navigation.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.Windows.Controls.Navigation.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.Windows.Controls.Navigation.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.Windows.Controls.Navigation.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.Windows.Controls.Navigation.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.Windows.Controls.Navigation.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.Windows.Controls.Navigation.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\System.Xml.Serialization.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\System.Xml.Serialization.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\System.Xml.Serialization.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\System.Xml.Serialization.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\System.Xml.Serialization.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\System.Xml.Serialization.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\System.Xml.Serialization.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\System.Xml.Serialization.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\System.Xml.Serialization.resources.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\obj\Debug\NRIUturn.dll
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\obj\Debug\NRIUturn.pdb
+C:\Users\nvonteddu\Desktop\NRIUturn\NRIUturn\NRIUturn\obj\Debug\XapCacheFile.xml
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\Caliburn.Micro.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\Microsoft.Expression.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\Microsoft.Expression.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\Microsoft.Expression.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\Microsoft.Expression.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\Microsoft.Expression.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\Microsoft.Expression.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\Microsoft.Expression.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\Microsoft.Expression.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\Microsoft.Expression.Controls.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\Microsoft.Expression.Drawing.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\Microsoft.Expression.Drawing.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\Microsoft.Expression.Drawing.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\Microsoft.Expression.Drawing.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\Microsoft.Expression.Drawing.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\Microsoft.Expression.Drawing.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\Microsoft.Expression.Drawing.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\Microsoft.Expression.Drawing.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\Microsoft.Expression.Drawing.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\de\Microsoft.Expression.Effects.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\es\Microsoft.Expression.Effects.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\fr\Microsoft.Expression.Effects.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\it\Microsoft.Expression.Effects.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ja\Microsoft.Expression.Effects.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ko\Microsoft.Expression.Effects.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\ru\Microsoft.Expression.Effects.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hans\Microsoft.Expression.Effects.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\Bin\Debug\zh-Hant\Microsoft.Expression.Effects.resources.dll
+C:\NRIUturn\NRIUturn\NRIUturn\obj\Debug\NRIUturn.csprojResolveAssemblyReference.cache
+C:\NRIUturn\NRIUturn\NRIUturn\obj\Debug\App.g.cs
+C:\NRIUturn\NRIUturn\NRIUturn\obj\Debug\CustomControls\InsertURL.g.cs
+C:\NRIUturn\NRIUturn\NRIUturn\obj\Debug\CustomControls\RichTextEditor.g.cs
+C:\NRIUturn\NRIUturn\NRIUturn\obj\Debug\CustomControls\SilverlightTextEditor.g.cs
+C:\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\About.g.cs
+C:\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\ErrorWindow.g.cs
+C:\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\ImigrationView.g.cs
+C:\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\IndiaEducationView.g.cs
+C:\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\HomeView.g.cs
+C:\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\IndiaHouseView.g.cs
+C:\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\IndiaJobView.g.cs
+C:\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\LoginPageView.g.cs
+C:\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\USEducationView.g.cs
+C:\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\USHouseView.g.cs
+C:\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\USJobView.g.cs
+C:\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Views\WaitControlView.g.cs
+C:\NRIUturn\NRIUturn\NRIUturn\obj\Debug\Assets\BottomArch.g.cs
+C:\NRIUturn\NRIUturn\NRIUturn\obj\Debug\ShellView.g.cs

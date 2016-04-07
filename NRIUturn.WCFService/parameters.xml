@@ -1,0 +1,9 @@
+﻿<parameters>
+  <parameter name="IIS Web Application Name" defaultValue="Default Web Site/NRIUturn.WCFService_deploy" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\nvonteddu\\Documents\\Visual\ Studio\ 2010\\Projects\\NRIUturn\\NRIUturn\.WCFService\\obj\\Release\\Package\\PackageTmp$" />
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\nvonteddu\\Documents\\Visual\ Studio\ 2010\\Projects\\NRIUturn\\NRIUturn\.WCFService\\obj\\Release\\Package\\PackageTmp$" />
+  </parameter>
+  <parameter name="Add write permission to App_Data Folder" description="Add write permission to App_Data folder" defaultValue="{IIS Web Application Name}/App_Data" tags="Hidden">
+    <parameterEntry kind="ProviderPath" scope="setAcl" match="^C:\\Users\\nvonteddu\\Documents\\Visual\ Studio\ 2010\\Projects\\NRIUturn\\NRIUturn\.WCFService\\obj\\Release\\Package\\PackageTmp\\App_Data$" />
+  </parameter>
+</parameters>
